@@ -15,6 +15,7 @@ Sou estudante de Arquitetura e Urbanismo, ourives e empreendedor em Jaraguá do 
 - **Materiais comerciais:** apresentações, media kits e portfólios com informação objetiva e identidade consistente.
 - **Desenvolvimento assistido por IA:** transformar ideias em protótipos, interfaces e projetos digitais, usando ChatGPT e ferramentas de IA no processo.
 - **Processos e automações:** mapear necessidades e desenhar fluxos para reduzir trabalho repetitivo em pequenos negócios.
+- **Vídeo e motion graphics com IA:** apoio à edição e à criação de elementos visuais para conteúdo digital.
 
 ## Projetos selecionados
 
@@ -44,7 +45,12 @@ Projeto próprio de produto digital em desenvolvimento. Espaço de aplicação e
 
 Parto do objetivo, organizo o conteúdo, exploro a solução visual e construo com apoio de IA. Uso o termo *vibe coding* para parte desse processo, com atenção à revisão do que será publicado e à clareza sobre o estágio de cada projeto.
 
-Os repositórios acadêmicos neste perfil registram meus primeiros exercícios de HTML e CSS. Os projetos acima também incluem trabalhos publicados fora do GitHub; os links permitem conhecer o resultado sem depender da abertura do código-fonte.
+Meus primeiros exercícios de HTML e CSS estão preservados como registros de aprendizado:
+
+- [Apresentação pessoal em HTML e CSS](https://github.com/gusthavomueller/trabalhofacul-01)
+- [Formulário HTML](https://github.com/gusthavomueller/trabalhofacul-02)
+
+Os projetos selecionados acima também incluem trabalhos publicados fora do GitHub; os links permitem conhecer o resultado sem depender da abertura do código-fonte.
 
 ## Vamos conversar
 
@@ -54,4 +60,4 @@ Tenho interesse em projetos remunerados de sites, identidade visual e materiais 
 
 ---
 
-**English:** I create websites, visual identity systems and digital materials with AI-assisted workflows. Based in Brazil, I bring together design, content and hands-on small-business experience. Open to paid projects and collaborations.
+**English:** I create websites, visual identity systems and digital materials with AI-assisted workflows. Based in Brazil, I bring together design, content and hands-on small-business experience. Fluent in English. Open to paid projects and collaborations.
