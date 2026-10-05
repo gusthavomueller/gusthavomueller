@@ -1,3 +1,5 @@
+![Gusthavo Mueller: sites, identidade visual e soluções digitais](assets/profile-banner.svg)
+
 # Gusthavo Mueller
 
 ### Sites, identidade visual e soluções digitais com apoio de IA
