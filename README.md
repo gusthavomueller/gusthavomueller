@@ -2,20 +2,20 @@
 
 # Gusthavo Mueller
 
-### Sites, identidade visual e soluções digitais com apoio de IA
+### Sites, sistemas, identidade visual e automações com apoio de IA
 
-Crio sites e materiais de marca e desenvolvo projetos de sistemas com apoio de inteligência artificial. Meu trabalho conecta comunicação visual, organização de informação e necessidades reais de pequenos negócios e criadores.
+Crio sites, identidades visuais e materiais digitais e desenvolvo projetos de sistemas e automações com apoio de inteligência artificial. Atuo na concepção, organização do conteúdo, direção visual, construção, revisão e testes, com foco nas necessidades de pequenos negócios e criadores.
 
-Sou estudante de Arquitetura e Urbanismo, ourives e empreendedor em Jaraguá do Sul, SC. A experiência na Oficina da Jóia Mueller também faz parte do meu olhar para atendimento, produção e processos.
+Sou estudante de Arquitetura e Urbanismo na UniSociesc, ourives e empreendedor em Jaraguá do Sul, SC. A experiência na Oficina da Jóia Mueller também faz parte do meu olhar para atendimento, produção e processos. Minha trajetória inclui estudos em Engenharia de Software, não concluídos, e tenho inglês fluente.
 
 ## Como posso contribuir
 
 - **Sites e landing pages:** apresentação de serviços, organização de conteúdo e caminhos claros para contato.
 - **Identidade visual e brand kits:** símbolo, paleta, tipografia, templates e organização dos arquivos da marca.
 - **Materiais comerciais:** apresentações, media kits e portfólios com informação objetiva e identidade consistente.
-- **Desenvolvimento assistido por IA:** transformar ideias em protótipos, interfaces e projetos digitais, usando ChatGPT e ferramentas de IA no processo.
+- **Sistemas, interfaces e protótipos:** desenvolvimento assistido por IA, usando ChatGPT e outras ferramentas de IA durante a construção, com revisão e testes.
 - **Processos e automações:** mapear necessidades e desenhar fluxos para reduzir trabalho repetitivo em pequenos negócios.
-- **Vídeo e motion graphics com IA:** apoio à edição e à criação de elementos visuais para conteúdo digital.
+- **Audiovisual e motion design:** fotografia, produção e edição de vídeo, elementos gráficos e fluxos de edição automatizada, com direção criativa e apoio de IA. Também atuo como criador de conteúdo, modelo fotográfico e apresentador, com equipamentos próprios.
 
 ## Projetos selecionados
 
@@ -41,9 +41,11 @@ Projeto próprio de produto digital em desenvolvimento. Espaço de aplicação e
 
 [Conhecer a ASCENDE](https://ascende.site)
 
-## Meu jeito de trabalhar
+## Processo de trabalho
 
-Parto do objetivo, organizo o conteúdo, exploro a solução visual e construo com apoio de IA. Uso o termo *vibe coding* para parte desse processo, com atenção à revisão do que será publicado e à clareza sobre o estágio de cada projeto.
+Parto do objetivo do projeto, organizo as informações e desenvolvo a proposta visual e funcional. Uso desenvolvimento assistido por IA, incluindo *vibe coding*, na construção de sites, interfaces e sistemas. As ferramentas apoiam a execução; meu trabalho inclui direção criativa, revisão, testes e ajustes no resultado.
+
+Cada projeto do portfólio está identificado pelo que representa: trabalho publicado, colaboração ou produto em desenvolvimento.
 
 Meus primeiros exercícios de HTML e CSS estão preservados como registros de aprendizado:
 
@@ -52,10 +54,12 @@ Meus primeiros exercícios de HTML e CSS estão preservados como registros de ap
 
 Os projetos selecionados acima também incluem trabalhos publicados fora do GitHub; os links permitem conhecer o resultado sem depender da abertura do código-fonte.
 
-## Em outras redes
+## Vamos conversar
+
+Para conversar sobre projetos de sites, identidade visual, materiais digitais, automação ou audiovisual, entre em contato pelo LinkedIn ou Instagram.
 
 [Instagram · @gusthavomueller](https://www.instagram.com/gusthavomueller/) · [LinkedIn](https://www.linkedin.com/in/gusthavomueller/)
 
 ---
 
-**English:** I create websites, visual identity systems and digital materials with AI-assisted workflows. Based in Brazil, I bring together design, content and hands-on small-business experience. Fluent in English.
+**English:** I create websites, visual identity systems and digital materials, and develop software and automation projects with AI-assisted workflows. My work includes content planning, visual direction, prototyping, review and testing. Based in Brazil, I also work with jewelry and audiovisual production. Architecture and Urbanism student. Fluent in English. Contact me on LinkedIn or Instagram to discuss a project.
