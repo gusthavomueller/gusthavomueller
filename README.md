@@ -52,12 +52,10 @@ Meus primeiros exercícios de HTML e CSS estão preservados como registros de ap
 
 Os projetos selecionados acima também incluem trabalhos publicados fora do GitHub; os links permitem conhecer o resultado sem depender da abertura do código-fonte.
 
-## Vamos conversar
-
-Tenho interesse em projetos remunerados de sites, identidade visual e materiais digitais para negócios e criadores.
+## Em outras redes
 
 [Instagram · @gusthavomueller](https://www.instagram.com/gusthavomueller/) · [LinkedIn](https://www.linkedin.com/in/gusthavomueller/)
 
 ---
 
-**English:** I create websites, visual identity systems and digital materials with AI-assisted workflows. Based in Brazil, I bring together design, content and hands-on small-business experience. Fluent in English. Open to paid projects and collaborations.
+**English:** I create websites, visual identity systems and digital materials with AI-assisted workflows. Based in Brazil, I bring together design, content and hands-on small-business experience. Fluent in English.
